@@ -13,7 +13,7 @@
 			<!-- LOGO -->
 			<div id="logo">
 				<a href="index.php">
-					Blog de Videojuegos
+					Blog
 				</a>
 			</div>
 			
